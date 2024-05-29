@@ -9,7 +9,7 @@ setup(
 	packages=['ebayesthresh'],
 	zip_safe=False,
 	install_requires=[
-		numpy==1.23.5,
-		scipy==1.10.1,
-		statsmodels==0.14.0]
+		'numpy==1.23.5',
+		'scipy==1.10.1',
+		'statsmodels==0.14.0']
 )
